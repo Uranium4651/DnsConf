@@ -1,0 +1,8 @@
+104.21.43.51 google.com
+104.21.43.51 google.com
+104.21.43.51 googleapis.com
+104.21.43.51 chatgpt.com
+104.21.43.51 openai.com
+104.21.43.51 openai.com
+104.21.43.51 openai.com
+104.21.43.51 amazonaws.com
