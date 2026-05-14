@@ -1,8 +1,4 @@
-104.21.43.51 google.com
-104.21.43.51 google.com
-104.21.43.51 googleapis.com
-104.21.43.51 chatgpt.com
-104.21.43.51 openai.com
-104.21.43.51 openai.com
-104.21.43.51 openai.com
-104.21.43.51 amazonaws.com
+95.217.181.166 chatgpt.com
+95.217.181.166 oaistatic.com
+95.217.181.166 openai.com
+95.217.181.166 oaiusercontent.com
